@@ -6,11 +6,13 @@
   "keywords": ["zencoder", "encoding", "html5", "video"],
   "author": [
     { "name":  "Ryan Faerman", "email": "ryan@faerman.net", "website": "http://ryanfaerman.com" },
-    { "name":  "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" }
+    { "name":  "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" },
+    { "name":  "Jesse Pate", "email": "jesse@nuorder.com" }
   ],
   "contributors": [
     { "name":  "Ryan Faerman", "email": "ryan@faerman.net", "website": "http://ryanfaerman.com" },
-    { "name":  "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" }
+    { "name":  "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" },
+    { "name":  "Jesse Pate", "email": "jesse@nuorder.com" }
   ],
   "repository": {
     "type": "git",
