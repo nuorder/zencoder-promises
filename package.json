@@ -1,6 +1,6 @@
 {
   "name": "zencoder-promises",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A promise-based implementation of the Zencoder API in Node.js",
   "homepage": "https://github.com/nuorder/zencoder-promises",
   "keywords": ["zencoder", "encoding", "html5", "video"],
